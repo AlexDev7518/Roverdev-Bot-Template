@@ -3,4 +3,4 @@
 # Bot Template Was Made by https://discord.gg/roverdev
 
 # This is a V14 Template I made
-#  Give Creedits or we will take actions
+#  Give Credits or we will take actions
