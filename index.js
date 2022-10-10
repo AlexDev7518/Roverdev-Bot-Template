@@ -58,8 +58,7 @@ client.TotalCommands = [];
 client.TotalPrefixCommands = [];
 client.allevents = []
 
-client.config = require("./config/config")
-client.BotEmojis = require("./config/emojis")
+client.config = require("./config/config.json")
 
 const commands = new Collection();
 const aliases = new Collection();
