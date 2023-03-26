@@ -25,7 +25,7 @@ module.exports = async (client, message) => {
             const cmd = client.container.commands.get(command) || client.container.commands.get(client.container.aliases.get(command))
 
             
-            if (cmd) { 
+            if (cmd && message.content.includes(Prefix)) { 
                    if (cmd.conf.Prefix.enabled == false) {
                     return message.reply({
                         embeds: [
