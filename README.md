@@ -1,4 +1,4 @@
-# Roverdev-BotTeamplate | v14 Bot Template for Your Bots!
+# Roverdev-BotTemplate | v14 Bot Template for Your Bots!
 
 # Bot Template Was Made by https://discord.gg/roverdev
 
